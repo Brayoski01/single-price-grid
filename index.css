@@ -99,7 +99,7 @@ body{
 
     .art1{
         grid-column: span 2;
-        margin-left: 30px;
+        padding-left: 30px;
     }
 
     .art1 h2{
@@ -125,4 +125,5 @@ body{
     .btn{
         width: 250px;
     }
+
 }
